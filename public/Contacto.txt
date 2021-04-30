@@ -1,0 +1,9 @@
+
+                Nombre:ffff
+                Email:pepe@pepe.cl
+                Mensaje:ffffffff
+                ********************************
+                Nombre:alex
+                Email:alex@gmail.com
+                Mensaje:alex
+                ********************************
